@@ -22,7 +22,7 @@ cargo run -- sample.csv
 
 ## Example
 
-The code below shows you how to run the application using environment variables.
+The code below shows how to run the payments engine with the arguments provided to the command.
 
 ```rust
 use std::env;
