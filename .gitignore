@@ -1,0 +1,6 @@
+# Cargo build
+/target
+
+# Intellij files
+.idea/
+*.iml
